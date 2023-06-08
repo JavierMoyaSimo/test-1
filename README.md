@@ -21,7 +21,7 @@ This project consists of emulating a responsive web, with a background image. We
 
 ---
 
-## Autor
+## Author
 
 
 Javier Moya Simó
